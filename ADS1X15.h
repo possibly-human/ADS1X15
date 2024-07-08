@@ -155,7 +155,7 @@ public:
   uint32_t getWireClock();
 
 
-protected:
+pulic:
   ADS1X15();
 
   //  CONFIGURATION
